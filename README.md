@@ -15,7 +15,7 @@ My name is Jonathan Gan, Software Engineer and Investor.
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
-        <strong>Visit my personal website </strong>
+        <strong>My Linktree </strong>
     </td>
   </tr>
 </table>
