@@ -19,4 +19,5 @@ My name is Jonathan Gan, Software Engineer and Investor.
     </td>
   </tr>
 </table>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&redirect=true)
