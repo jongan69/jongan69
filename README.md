@@ -4,7 +4,9 @@ My name is Jonathan Gan, Software Engineer and Investor.
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
+    <tr>
       <img src="https://activity-graph.herokuapp.com/graph?username=jongan69&theme=dracula"/>
+  </tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=jongan69&show_icons=true&theme=dracula" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
