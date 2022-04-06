@@ -1,7 +1,7 @@
 ### Hi There
 
 My name is Jonathan Gan, Software Engineer and Investor.
-[[![Jon's github activity graph](https://activity-graph.herokuapp.com/graph?username=jongan69&theme=dracula)]]
+![Jon's github activity graph](https://activity-graph.herokuapp.com/graph?username=jongan69&theme=dracula)
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
