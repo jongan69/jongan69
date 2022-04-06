@@ -2,8 +2,6 @@
 
 My name is Jonathan Gan, Software Engineer and Investor.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&redirect=true)
-
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
@@ -21,3 +19,4 @@ My name is Jonathan Gan, Software Engineer and Investor.
     </td>
   </tr>
 </table>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&redirect=true)
