@@ -11,7 +11,7 @@ My name is Jonathan Gan, Software Engineer and Investor.
       <a href="https://benyou.me">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github.com/jongan69/benyou1969/blob/master/globe.gif?raw=true" />
+        <img src="https://github.com/jongan69/blob/master/globe.gif?raw=true" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
