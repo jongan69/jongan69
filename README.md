@@ -1,12 +1,11 @@
 ### Hi There
 
 My name is Jonathan Gan, Software Engineer and Investor.
-![Jon's github activity graph](https://activity-graph.herokuapp.com/graph?username=jongan69&theme=dracula)
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-
+      <img src="https://activity-graph.herokuapp.com/graph?username=jongan69&theme=dracula"/>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=jongan69&show_icons=true&theme=dracula" />
         <a href="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&redirect=true">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=compact"/>
