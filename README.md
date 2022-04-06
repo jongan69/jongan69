@@ -6,7 +6,9 @@ My name is Jonathan Gan, Software Engineer and Investor.
   <tr>
     <td align="center">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=jongan69&show_icons=true&theme=dracula" />
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=compact&redirect=true"/>
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&redirect=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=compact"/>
+          <br>
     </td>
     <td align="center">
       <a href="https://jongan69.github.io/linktree/">
