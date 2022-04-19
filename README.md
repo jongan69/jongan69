@@ -1,6 +1,6 @@
 ### Hi There
 
-My name is Jonathan Gan, Software Engineer and Investor.
+My name is Jonathan Gan, I need a job.
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
    <tr>
