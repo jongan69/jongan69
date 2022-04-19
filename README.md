@@ -12,7 +12,7 @@ Interests:
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
-<table width="80%"  border="0" cellpadding="0" cellspacing="0">
+<table width="80%"  height="80%" border="0" cellpadding="0" cellspacing="0">
    <tr>
       <img src="https://activity-graph.herokuapp.com/graph?username=jongan69&theme=react-dark"/>
   </tr>
