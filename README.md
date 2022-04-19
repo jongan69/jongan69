@@ -29,14 +29,16 @@ Interests:
   <tr>   
     <td>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&redirect=true">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=compact"/>
+      </a>
       <a href="https://jongan69.github.io/linktree/">
       <img src="https://imgs.search.brave.com/bQbST9xiMrAUrpyZTWcI65i0HkEMA30_0LOlV5OYE3c/rs:fit:474:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL1dabU5T/VVM3MXVqM1cvZ2lw/aHkuZ2lm.gif" alt="My Linktree"/>
        </a> 
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <br>
+       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+       <br>
     </td>
   </tr>
    
