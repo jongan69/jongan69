@@ -12,6 +12,9 @@ Interests:
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69)](https://github.com/jongan69/github-readme-stats)
+
+
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
    <tr>
       <img src="https://activity-graph.herokuapp.com/graph?username=jongan69&theme=react-dark"/>
