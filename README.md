@@ -28,8 +28,8 @@ Interests:
     <td align="center">
       <a href="https://jongan69.github.io/linktree/">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69)](https://github.com/jongan69/github-readme-stats)
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69"        
+         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://imgs.search.brave.com/bQbST9xiMrAUrpyZTWcI65i0HkEMA30_0LOlV5OYE3c/rs:fit:474:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL1dabU5T/VVM3MXVqM1cvZ2lw/aHkuZ2lm.gif" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
