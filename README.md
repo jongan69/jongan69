@@ -11,7 +11,6 @@ Interests:
 - Full Stack Development
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
-https://jongan69.github.io/linktree/
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
    <tr>
