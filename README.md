@@ -6,6 +6,11 @@ A lot of my projects I would mark as incompleted.
 Pinned projects should all be functional, will use Vercel for future project deploys.
 Any interests, issues, or concerns please PM and open an issue on the related project.
 
+Interests:
+- Mobile Development
+- Full Stack Development
+- WEB3 Development
+- Hardware Hacks (Huge fan of hackathons)
 https://jongan69.github.io/linktree/
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
