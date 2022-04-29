@@ -31,4 +31,16 @@ done
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh export ZSH_THEME="zanshin"
+export NVM_DIR="$HOME/usr/local/opt/nvm"
+
+# For Solana WEB3 CLI
+export PATH="/Users/jonathangan/.local/share/solana/install/active_release/bin:$PATH"
+
+ZSH_THEME=powerlevel10k/powerlevel10k
+source ~/powerlevel10k/powerlevel10k.zsh-theme
+source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme
+
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
