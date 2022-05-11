@@ -1,6 +1,6 @@
 ### Hi There
 
-My name is Jonathan Gan and I need a job.
+My name is Jonathan Gan.
 
 A lot of my projects I would mark as incompleted.
 Pinned projects should all be functional, will use Vercel for future project deploys.
