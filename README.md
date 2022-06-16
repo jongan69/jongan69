@@ -12,6 +12,11 @@ Interests:
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
+Projects:
+- [Mobile Apps](https://expo.dev/@jongan69)
+- [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
    <tr>
       <img src="https://activity-graph.herokuapp.com/graph?username=jongan69&theme=react-dark"/>
