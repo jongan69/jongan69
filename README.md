@@ -2,9 +2,8 @@
 
 My name is Jonathan Gan.
 
-A lot of my projects I would mark as incompleted.
-Pinned projects should all be functional,
-Any interests, issues, or concerns please PM and open an issue on the related project.
+I am a Full Stack JavaScript and Python Developer with a sprinkle in a number of other technologies as well. I like hardware and Software and I try to freelance in between:
+[Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
 
 Interests:
 - Mobile Development
