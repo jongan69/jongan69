@@ -3,7 +3,7 @@
 My name is Jonathan Gan.
 
 A lot of my projects I would mark as incompleted.
-Pinned projects should all be functional, will use Vercel for future project deploys.
+Pinned projects should all be functional,
 Any interests, issues, or concerns please PM and open an issue on the related project.
 
 Interests:
