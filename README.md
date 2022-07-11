@@ -14,7 +14,6 @@ Interests:
 Projects:
 - [Mobile Apps](https://expo.dev/@jongan69)
 - [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69)](https://github.com/anuraghazra/github-readme-stats)
 
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
    <tr>
@@ -26,7 +25,7 @@ Projects:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69&layout=compact"  />      
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      <img src="https://github-readme-stats.vercel.app/api?username=jongan69&show_icons=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jongan69&hide=python&show_icons=true&theme=dracula" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <br> 
     </td>
