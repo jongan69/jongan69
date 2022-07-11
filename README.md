@@ -14,7 +14,7 @@ Interests:
 Projects:
 - [Mobile Apps](https://expo.dev/@jongan69)
 - [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69)](https://github.com/anuraghazra/github-readme-stats)
 
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
    <tr>
