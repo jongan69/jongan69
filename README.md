@@ -22,7 +22,7 @@ Projects:
    
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69&hide=python&layout=compact"  />      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69&hide=python,makefile&layout=compact"  />      
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <img src="https://github-readme-stats.vercel.app/api?username=jongan69&show_icons=true&theme=dracula" />
