@@ -2,7 +2,8 @@
 
 My name is Jonathan Gan.
 
-I am a Full Stack JavaScript and Python Developer with a sprinkle in a number of other technologies as well. I like hardware and Software and I try to freelance in between:
+I am a Fullstack Typescript/JavaScript/React/React Native Software Engineer.
+
 [Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
 
 Interests:
