@@ -20,7 +20,6 @@ Projects:
    <tr>
       <img src="https://activity-graph.herokuapp.com/graph?username=jongan69&theme=react-dark"/>
   </tr>
-   
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69&hide=html,shell,css,makefile&layout=compact"  />      
@@ -42,8 +41,7 @@ Projects:
      </div>
        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-       <br>
-         
+       <br>   
     </td>
   </tr>
 </table>
