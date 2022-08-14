@@ -6,6 +6,7 @@ I am a Fullstack Typescript/JavaScript/React/React Native Software Engineer.
 
 If you find something useful please leave a star! ⭐
 
+[Gitcoin](https://gitcoin.co/jongan69)
 [Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
 
 Interests:
