@@ -2,6 +2,14 @@
 
 My name is Jonathan Gan. I am a Fullstack Engineer, If you find something useful please leave a star ⭐
 
+Interests:
+- Mobile Development
+- Full Stack Development
+- WEB3 Development
+- Hardware Hacks (Huge fan of hackathons)
+
+Projects:
+
 [Gitcoin](https://gitcoin.co/jongan69)
 
 [REPL.IT](https://replit.com/@jongan69)
@@ -12,14 +20,7 @@ My name is Jonathan Gan. I am a Fullstack Engineer, If you find something useful
 
 [Expo](https://expo.dev/@jongan69)
 
-Interests:
-- Mobile Development
-- Full Stack Development
-- WEB3 Development
-- Hardware Hacks (Huge fan of hackathons)
-
-Projects:
-- [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
    <tr>
