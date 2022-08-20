@@ -2,7 +2,7 @@
 
 My name is Jonathan Gan.
 
-I am a Fullstack React Native Software Engineer.
+I am a Fullstack Engineer.
 
 If you find something useful please leave a star ⭐
 
