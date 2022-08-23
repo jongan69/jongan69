@@ -45,7 +45,7 @@ Projects & Expirience:
     <td > 
     <div align="center">
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&redirect=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=compact" width="40%"/>
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=compact" width="80%"/>
       </a>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
      </div>
