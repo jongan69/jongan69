@@ -8,11 +8,15 @@ Interests:
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
-Projects:
+Projects & Expirience:
+
+[Expo](https://expo.dev/@jongan69)
 
 [Gitcoin](https://gitcoin.co/jongan69)
 
-[Expo](https://expo.dev/@jongan69)
+[HackerRank](https://www.hackerrank.com/jonngan)
+
+[LeetCode](https://leetcode.com/jongan69/)
 
 [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
