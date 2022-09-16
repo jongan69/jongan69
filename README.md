@@ -10,7 +10,7 @@ Interests:
 
 Projects & Expirience:
 
-[React To do list](https://csb-t8u7ph.netlify.app/)
+[React To do list](https://csb-60nwbb.netlify.app/)
 
 [Expo](https://expo.dev/@jongan69)
 
