@@ -8,6 +8,8 @@ Interests:
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
+[Discord](https://discord.gg/eN9747k)
+
 Projects & Expirience:
 
 [React To do list](https://jongan69.github.io/csb-60nwbb/)
