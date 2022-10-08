@@ -10,7 +10,7 @@ Interests:
 
 [Discord](https://discord.gg/eN9747k)
 
-Projects & Expirience:
+Projects & Experience:
 
 [React To do list](https://jongan69.github.io/csb-60nwbb/)
 
