@@ -10,7 +10,7 @@ Interests:
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
-[Discord](https://discord.gg/eN9747k)
+
 
 Projects & Experience:
 
@@ -34,6 +34,7 @@ Projects & Experience:
 
 [StackBlitz](https://stackblitz.com/@jongan69)
 
+[Discord](https://discord.gg/eN9747k)
 
 <p align="center"> 
   Visitor count<br>
