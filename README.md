@@ -16,13 +16,7 @@ My name is Jonathan Gan, I am a Software Engineer, If you find something useful 
 
 ### Projects & Experience:
 
-[React To do list](https://jongan69.github.io/csb-60nwbb/)
-
 [Expo](https://expo.dev/@jongan69)
-
-[Gitcoin](https://gitcoin.co/jongan69)
-
-[HackerRank](https://www.hackerrank.com/jonngan)
 
 [LeetCode](https://leetcode.com/jongan69/)
 
@@ -31,10 +25,6 @@ My name is Jonathan Gan, I am a Software Engineer, If you find something useful 
 [Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
 
 [REPL.IT](https://replit.com/@jongan69)
-
-[CodeSandbox](https://codesandbox.io/u/jongan69)
-
-[StackBlitz](https://stackblitz.com/@jongan69)
 
 [Discord](https://discord.gg/eN9747k)
 
