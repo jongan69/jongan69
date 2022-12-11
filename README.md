@@ -33,7 +33,10 @@ Projects & Experience:
 [StackBlitz](https://stackblitz.com/@jongan69)
 
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
