@@ -26,8 +26,6 @@ My name is Jonathan Gan, I am a Software Engineer, If you find something useful 
 
 [REPL.IT](https://replit.com/@jongan69)
 
-[Discord](https://discord.gg/eN9747k)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jongan69/count.svg" />
