@@ -2,15 +2,15 @@
 
 My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
-
+ <img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="50px" height="50px" alt="world">
+ 
 <details>
-  <img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="50px" height="50px" alt="world">
 <summary>
   About Me
 </summary>
 
 <br >
-
+  
   <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
 ## Interests:
