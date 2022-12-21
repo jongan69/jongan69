@@ -36,14 +36,14 @@
 
 
 
-#### 
+###
  [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Cool-Dog-Discord-emoji.gif" width="15px" height="15px" alt="Dance"/>](https://jongan69.github.io/linktree/) Vistors
   
   <img src="https://profile-counter.glitch.me/jongan69/count.svg" />
 
 
 
-#### 
+###
  [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="TARGET"/>](https://jongan69.github.io/linktree/) Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
