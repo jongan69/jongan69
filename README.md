@@ -3,12 +3,12 @@
 [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
 
-<br >
+<br>
 <details>
 <summary>
-  **About Me**
+  About Me
 </summary>
-<br >
+<br>
   
 
 ## [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Interests:
@@ -29,8 +29,7 @@
 
 [REPL.IT](https://replit.com/@jongan69)
  
-   <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+ <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </details>
 
 
@@ -38,7 +37,7 @@
   
   <img src="https://profile-counter.glitch.me/jongan69/count.svg" />
 
-<br >
+<br>
 
 ### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="TARGET"/>](https://jongan69.github.io/linktree/) Top Technologies
 
@@ -49,7 +48,7 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-<br >
+<br>
 
 ### [<img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/>](https://jongan69.github.io/linktree/) Stats
 
