@@ -35,10 +35,9 @@
 </details>
 
 
-<p align="center"> 
-  Visitor count<br>
+#### 
+ [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="world"/>](https://jongan69.github.io/linktree/) Vistors
   <img src="https://profile-counter.glitch.me/jongan69/count.svg" />
-</p>
 
 
 #### 
