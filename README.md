@@ -1,6 +1,6 @@
-# Hi There!
+# Hi There!  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-My name is Jonathan Gan, I am a Software Engineer, If you find something useful please leave a star <3 ⭐
+My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
 <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -57,7 +57,6 @@ My name is Jonathan Gan, I am a Software Engineer, If you find something useful 
   </tr>
 </table>
 
-## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
 
