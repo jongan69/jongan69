@@ -9,7 +9,7 @@
   About Me
 </summary>
 <br>
-  
+
 
 ## [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Interests:
 - Mobile Development
@@ -17,7 +17,7 @@
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
-##  [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Projects & Experience:
+##  [<img src="https://user-images.githubusercontent.com/29899042/209015323-7817b7b3-4772-4467-9a99-ec29c09b7ca1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Projects & Experience:
 - [Expo](https://expo.dev/@jongan69)
 - [LeetCode](https://leetcode.com/jongan69/)
 - [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
