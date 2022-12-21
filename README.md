@@ -5,7 +5,6 @@ My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
 <details>
 <summary>
-  More about me
   <img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="50px" height="50px" alt="world">
 </summary>
 
