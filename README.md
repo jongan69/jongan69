@@ -1,4 +1,4 @@
-# Hi There!  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="hi">  
+# Hi There! [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="hi"/>](https://jongan69.github.io/linktree/)
 
 My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
@@ -6,7 +6,7 @@ My name is Jonathan Gan, If you find something useful please leave a star!⭐
  
 <details>
 <summary>
-  <img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="world">
+ [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px"height="20px"alt="world"/>](https://jongan69.github.io/linktree/)
   About Me
 </summary>
 
@@ -14,7 +14,7 @@ My name is Jonathan Gan, If you find something useful please leave a star!⭐
   
   <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
-## <img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="world"> Interests:
+## [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="world"/>](https://jongan69.github.io/linktree/) Interests:
 - Mobile Development
 - Full Stack Development
 - WEB3 Development
@@ -70,7 +70,7 @@ My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
 
 #### 
- <img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="world"> Top Technologies
+ [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="world"/>](https://jongan69.github.io/linktree/) Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![React Native Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB&label=React+Native)](#) 
