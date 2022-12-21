@@ -2,23 +2,22 @@
 
 [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
- 
- 
+
+<br >
 <details>
 <summary>
   **About Me**
 </summary>
-
 <br >
   
+
 ## [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Interests:
 - Mobile Development
 - Full Stack Development
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
-
-### Projects & Experience:
+## Projects & Experience:
 
 [Expo](https://expo.dev/@jongan69)
 
