@@ -17,17 +17,12 @@
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
-## Projects & Experience:
-
-[Expo](https://expo.dev/@jongan69)
-
-[LeetCode](https://leetcode.com/jongan69/)
-
-[Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
-[Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
-
-[REPL.IT](https://replit.com/@jongan69)
+##  [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Projects & Experience:
+- [Expo](https://expo.dev/@jongan69)
+- [LeetCode](https://leetcode.com/jongan69/)
+- [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- [Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
+- [REPL.IT](https://replit.com/@jongan69)
  
  <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br>
