@@ -2,10 +2,11 @@
 
 My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
- <img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="50px" height="50px" alt="world">
+ 
  
 <details>
 <summary>
+ <img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="10px" height="10px" alt="world">
   About Me
 </summary>
 
@@ -66,7 +67,7 @@ My name is Jonathan Gan, If you find something useful please leave a star!⭐
   </tr>
 </table>
 
- <img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="50px" height="50px" alt="world">
+ <img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="30px" height="30px" alt="world">
 
 
 #### Top Technologies
