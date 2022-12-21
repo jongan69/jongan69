@@ -30,8 +30,10 @@
 [REPL.IT](https://replit.com/@jongan69)
  
  <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
 </details>
 
+<br>
 
 ### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Cool-Dog-Discord-emoji.gif" width="15px" height="15px" alt="Dance"/>](https://jongan69.github.io/linktree/) Vistors
   
