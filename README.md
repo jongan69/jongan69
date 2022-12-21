@@ -13,7 +13,7 @@ My name is Jonathan Gan, If you find something useful please leave a star!⭐
   
   <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
-## Interests:
+## <img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="20px" height="20px" alt="world"> Interests:
 - Mobile Development
 - Full Stack Development
 - WEB3 Development
