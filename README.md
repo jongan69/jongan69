@@ -2,15 +2,16 @@
 
 My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
-<a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <details>
 <summary>
-  More stuff about me
+  More about me
 </summary>
 
 <br >
 
+  <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  
 ## Interests:
 - Mobile Development
 - Full Stack Development
