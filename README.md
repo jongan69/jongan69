@@ -75,6 +75,6 @@ My name is Jonathan Gan, If you find something useful please leave a star!⭐
 <br />
 <br />
 
-#### Profile Visits 
+<!-- #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jongan69..visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jongan69..visitor-badge) -->
