@@ -70,7 +70,7 @@ My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
 
 #### 
- <img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="20px" height="20px" alt="world"> Top Technologies
+ <img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="world"> Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![React Native Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB&label=React+Native)](#) 
