@@ -58,7 +58,7 @@
 
 
 #### 
- [<img src="https://res.cloudinary.com/dtram9qiy/image/upload/v1671637358/my-upload/dsr50ogkg2usgzcjsfsq.gif" width="30px" height="30px" alt="REE"/>](https://jongan69.github.io/linktree/) Stats
+ [<img src="https://res.cloudinary.com/dtram9qiy/image/upload/v1671637358/my-upload/dsr50ogkg2usgzcjsfsq.gif" width="50px" height="50px" alt="REE"/>](https://jongan69.github.io/linktree/) Stats
 
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
