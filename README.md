@@ -57,6 +57,7 @@
 <br />
 <br />
 
+<img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/>
 ### [![reee](https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif)](https://jongan69.github.io/linktree/) Stats
 
 <br />
