@@ -55,6 +55,9 @@
 <br />
 <br />
 
+#### 
+ [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Hero-Slack-emoji.gif" width="15px" height="15px" alt="world"/>](https://jongan69.github.io/linktree/) Stats
+
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
