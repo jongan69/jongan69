@@ -24,7 +24,7 @@
 - [Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
 - [REPL.IT](https://replit.com/@jongan69)
  
- <a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <br>
 </details>
 
