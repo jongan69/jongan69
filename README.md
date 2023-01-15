@@ -6,6 +6,9 @@
 
 [ToffeeTracker WatchOS App](https://apps.apple.com/us/app/toffeetracker/id1663949034)
 
+[Pushup Timer WatchOS App](https://apps.apple.com/us/app/pushup-timer-pro/id1664672788)
+
+
 <br>
 <details>
 <summary>
