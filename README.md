@@ -2,6 +2,8 @@
 
 [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
+<img src="https://www.tradingview.com/i/o7l2RbrX/">
+
 ## Apps
 
 [ToffeeTracker WatchOS App](https://apps.apple.com/us/app/toffeetracker/id1663949034)
