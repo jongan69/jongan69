@@ -9,11 +9,11 @@
 [Pushup Timer WatchOS App](https://apps.apple.com/us/app/pushup-timer-pro/id1664672788)
 
 <br>
+
 <details>
 <summary>
   Full Resume
 </summary>
-<br>
 
 # Jonathan Gan
 Tampa, Florida, United States  
@@ -114,13 +114,10 @@ Broad technical knowledge of:
 - Web Development
 </details>
 
-<br>
-
 <details>
 <summary>
   About Me
 </summary>
-<br>
 
 ##  [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="slot machine"/>](https://jongan69.github.io/linktree/) Interests:
 - Mobile Development
@@ -134,8 +131,6 @@ Broad technical knowledge of:
 - [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - [Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
 - [REPL.IT](https://replit.com/@jongan69)
-  
-<br>
 </details>
 
 <br>
