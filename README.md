@@ -2,7 +2,6 @@
 
 [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
-<img src="https://www.tradingview.com/i/o7l2RbrX/">
 
 ## Apps
 
@@ -138,6 +137,8 @@ Broad technical knowledge of:
 <summary>
 <img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/> Stats
 </summary>
+  
+<img src="https://www.tradingview.com/i/o7l2RbrX/">
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
