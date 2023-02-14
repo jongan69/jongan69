@@ -15,31 +15,115 @@
 </summary>
 <br>
 
+# Jonathan Gan
+Tampa, Florida, United States  
+jonathang132298@gmail.com  
+7273253436  
+linkedin.com/in/jongan69
 
-## [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Interests:
-- Mobile Development
-- Full Stack Development
-- WEB3 Development
-- Hardware Hacks (Huge fan of hackathons)
+## Summary
+Specialties: 
+- Engineering Product Architecture
+- Scrum/Agile Workflow
+- Team Management
+- FullStack Engineering
 
-##  [<img src="https://user-images.githubusercontent.com/29899042/209015323-7817b7b3-4772-4467-9a99-ec29c09b7ca1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Projects & Experience:
-- [Expo](https://expo.dev/@jongan69)
-- [LeetCode](https://leetcode.com/jongan69/)
-- [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- [Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
-- [REPL.IT](https://replit.com/@jongan69)
-<br>
+Front-End Solutions: 
+- JavaScript
+- React/Nextjs
+- React Native
+- Swift
+
+Back-End Solutions: 
+- Nodejs
+- C++
+- Solidity
+- Rust
+- Mongodb
+- Python
+- IPFS
+- Java/Springboot
+- Flask
+
+Hardware Development: 
+- Raspberry Pi/Arduino/ESP Board/Soldering/Wafers/Assembly
+
+Broad technical knowledge of: 
+- Postgress
+- Web3/Blockchain
+- Rust Rocket
+- Entropy
+- GraphQL
+- Computer Vision
+- Deep Learning
+- Algorithms
+- Signal Processing
+- Machine Learning
+- Digital Logic Design and more
+
+## Experience
+- Senior Technical Analyst at Kin + Carta (6 months)
+- Code Coach at theCoderSchool (8 months)
+- Computer Science Student at University of South Florida (1 year 7 months)
+- React Developer at ChainBytes - Bitcoin ATM provider (6 months)
+- Junior React Developer at BlockSpaces (1 year 1 month)
+- Head of Software Development at MADD Technologies LLC (9 months)
+- Blockchain Research Intern at BlockSpaces (8 months)
+- Founder of Cryptocurrensea (1 year 9 months)
+- SaaS Developer at Accusoft (1 year 1 month)
+- Barista at Starbucks (1 year 1 month)
+
+## Education
+- University of South Florida (BS in Computer and Information Sciences, General)
+- Hillsborough Community College (BS in Computer Science)
+- Florida Polytechnic University (Bachelor's in Computer Engineering)
+- Alchemy University (Web3, Solidity)
+- edX (Computer Science courses)
+- freeCodeCamp (Computer Science)
+- Tarpon Springs High School (Diploma, Cambridge Program)
+
+## Licenses & Certifications
+- CS198.1x: Bitcoin and Cryptocurrencies from University of California, Berkeley
+- React: Creating and Hosting a Full-Stack Site from LinkedIn
+- Choosing a Cloud Platform for Developers: AWS, Azure, and GCP from LinkedIn
+- Scrum: The Basics from LinkedIn
+- Blockchain: Learning Solidity from LinkedIn
+- APP1x: Build your very first iOS app from Curtin University
+- Programming Foundations: Databases from LinkedIn
+- Learning React.js from LinkedIn
+- Managing Your Time from LinkedIn
+- React Native Ecosystem and Workflow from LinkedIn
+- Learning React Native from LinkedIn
+- iOS Core Bluetooth for Developers from LinkedIn
+- Microservices Foundations from LinkedIn
+- Java EE: Packaging and Deploying an App from LinkedIn
+- Overcoming Procrastination from LinkedIn
+- React (Basic) from HackerRank
+- AWS Technical Essentials from Amazon Web Services (AWS)
+
+## Skills
+- C Programming Language
+- Object-Oriented Programming
+- Hardware Architecture
+- Software Project Management
+- React.js
+- TypeScript
+- React Native
+- Mobile Application Development
+- Blockchain
+- Web Development
+
+  
 </details>
-<br>
 
 <br>
+
 <details>
 <summary>
   About Me
 </summary>
 <br>
 
-
 ## [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="Typing Cat"/>](https://jongan69.github.io/linktree/) Interests:
 - Mobile Development
 - Full Stack Development
@@ -52,17 +136,16 @@
 - [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - [Fiverr](https://business.fiverr.com/freelancers/cryptocurrensea?public_mode=true)
 - [REPL.IT](https://replit.com/@jongan69)
+  
 <br>
 </details>
+
 <br>
 
-
 <details>
-  
 <summary>
 <img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/> Stats
 </summary>
-  
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
@@ -87,7 +170,6 @@
     </td>
   </tr>
 </table>
-  
 </details>
   
   
