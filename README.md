@@ -132,8 +132,6 @@ Broad technical knowledge of:
 - [REPL.IT](https://replit.com/@jongan69)
 </details>
 
-<br>
-
 <details>
 <summary>
 <img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/> Stats
@@ -164,7 +162,6 @@ Broad technical knowledge of:
 </table>
 </details>
   
-  
   ### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="TARGET"/>](https://jongan69.github.io/linktree/) Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -179,7 +176,6 @@ Broad technical knowledge of:
   
 ### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Cool-Dog-Discord-emoji.gif" width="15px" height="15px" alt="Dance"/>](https://jongan69.github.io/linktree/) Vistors
   <img src="https://profile-counter.glitch.me/jongan69/count.svg" />
-<br>
 
 <!-- #### Profile Visits 
 
