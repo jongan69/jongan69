@@ -137,11 +137,9 @@ Broad technical knowledge of:
 <summary>
 <img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/> Stats
 </summary>
-  
+
 [<img src="https://www.tradingview.com/i/N1F2YF46/">](https://www.tradingview.com/script/N1F2YF46-Local-Average-Money-Flow-Indicator/)
-  
-https://www.tradingview.com/script/N1F2YF46-Local-Average-Money-Flow-Indicator/  
-  
+
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
@@ -179,8 +177,6 @@ https://www.tradingview.com/script/N1F2YF46-Local-Average-Money-Flow-Indicator/
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br>
 
-  
-  
 ### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Cool-Dog-Discord-emoji.gif" width="15px" height="15px" alt="Dance"/>](https://jongan69.github.io/linktree/) Vistors
   <img src="https://profile-counter.glitch.me/jongan69/count.svg" />
 
