@@ -25,7 +25,6 @@ linkedin.com/in/jongan69
 Specialties: 
 - Engineering Product Architecture
 - Scrum/Agile Workflow
-- Team Management
 - FullStack Engineering
 
 Front-End Solutions: 
