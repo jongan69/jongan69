@@ -138,7 +138,7 @@ Broad technical knowledge of:
 <img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/> Stats
 </summary>
 
-[<img src="https://www.tradingview.com/i/N1F2YF46/">](https://www.tradingview.com/script/N1F2YF46-Local-Average-Money-Flow-Indicator/)
+[<img src="https://www.tradingview.com/i/a9q1R33s/">](https://www.tradingview.com/chart/XBT/AUXHNpSh-Local-Levels-Indicator/)
 
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
