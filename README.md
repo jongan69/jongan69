@@ -2,7 +2,7 @@
 
 [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   My name is Jonathan Gan, If you find something useful please leave a star!⭐
 
-[![Medium](https://github-readme-medium.vercel.app/?username=jonngan)](https://medium.com/@jonngan)
+[![Medium](https://github-readme-medium.vercel.app/?username=jonngan)]([https://medium.com/@jonngan](https://jonngan.medium.com/artificial-intelligence-6fcf05fdb84d))
 
 
 ## Apps
