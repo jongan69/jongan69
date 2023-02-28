@@ -2,11 +2,11 @@
 
 [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   My name is Jonathan Gan, If you found something useful please leave a star!⭐
 
-<!-- [![Medium](https://github-readme-medium.vercel.app/?username=jonngan)](https://jonngan.medium.com/artificial-intelligence-6fcf05fdb84d)
- -->
+[![Medium](https://github-readme-medium.vercel.app/?username=jonngan)](https://jonngan.medium.com/artificial-intelligence-6fcf05fdb84d)
+
 
 <!-- School wasn't always cheap fam -->
-<a href="https://publishers.adsterra.com/referral/EFE17Xs7eQ"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%2060%20px.png" /></a>
+<!-- <a href="https://publishers.adsterra.com/referral/EFE17Xs7eQ"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%2060%20px.png" /></a> -->
 
 ## Apps
 
