@@ -4,6 +4,7 @@
 
 [![Medium](https://github-readme-medium.vercel.app/?username=jonngan)](https://jonngan.medium.com/artificial-intelligence-6fcf05fdb84d)
 
+[![Youtube](https://res.cloudinary.com/dro7c1ps1/image/upload/v1686556730/Screenshot_2023-06-12_at_3.57.31_AM_u206ot.png)](https://www.youtube.com/watch?v=lF6lD-B4YtM&list=UULPj2qx1zXvPtzg-MDADw1kOQ "Latest")
 
 <!-- School wasn't always cheap fam -->
 <!-- <a href="https://publishers.adsterra.com/referral/EFE17Xs7eQ"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%2060%20px.png" /></a> -->
