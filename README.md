@@ -5,8 +5,6 @@
 
 [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   My name is Jonathan Gan, If you found something useful please leave a star!⭐
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jonngan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jonngan/0" alt="Latest Medium Article"> 
-
 ## Apps
 
 [Pushup Timer WatchOS App](https://apps.apple.com/us/app/pushup-timer-pro/id1664672788)
