@@ -16,10 +16,7 @@
   Full Resume
 </summary>
 
-# Jonathan Gan
-Tampa, Florida, United States  
-jonathang132298@gmail.com  
-7273253436  
+# Jonathan Gan  
 linkedin.com/in/jongan69
 
 ## Summary
@@ -138,8 +135,6 @@ Broad technical knowledge of:
 <summary>
 <img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/> Stats
 </summary>
-
-[<img src="https://www.tradingview.com/i/a9q1R33s/">](https://www.tradingview.com/chart/XBT/AUXHNpSh-Local-Levels-Indicator/)
 
 <table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
