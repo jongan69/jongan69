@@ -3,7 +3,7 @@
 [BLOCKCHAIN EXPLAINED](https://www.youtube.com/watch?v=lF6lD-B4YtM&list=UULPj2qx1zXvPtzg-MDADw1kOQ)
 
 
-[<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   My name is Jonathan Gan, If you found something useful please leave a star!⭐
+[<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   If you found something useful please leave a star!⭐
 
 ## Apps
 
