@@ -2,18 +2,15 @@
 
 [BLOCKCHAIN EXPLAINED](https://www.youtube.com/watch?v=lF6lD-B4YtM&list=UULPj2qx1zXvPtzg-MDADw1kOQ)
 
-
-[<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/)   If you found something useful please leave a star!⭐
+[<img src="https://emojiguide.com/wp-content/uploads/2022/06/Typing-Cat-Slack-emoji.gif" width="20px" height="20px" alt="Hello">](https://jongan69.github.io/linktree/) If you found something useful please leave a star!⭐
 
 <br>
 
 <details>
-<summary>
-  Full Resume
-</summary>
+<summary>Full Resume</summary>
 
 # Jonathan Gan  
-linkedin.com/in/jongan69
+[linkedin.com/in/jongan69](https://linkedin.com/in/jongan69)
 
 ## Summary
 Specialties: 
@@ -108,17 +105,15 @@ Broad technical knowledge of:
 </details>
 
 <details>
-<summary>
-  About Me
-</summary>
+<summary>About Me</summary>
 
-##  [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="slot machine"/>](https://jongan69.github.io/linktree/) Interests:
+## [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Slot-Machine-Telegram-emoji-1.gif" width="25px" height="25px" alt="slot machine"/>](https://jongan69.github.io/linktree/) Interests:
 - Mobile Development
 - Full Stack Development
 - WEB3 Development
 - Hardware Hacks (Huge fan of hackathons)
 
-##  [<img src="https://user-images.githubusercontent.com/29899042/209015323-7817b7b3-4772-4467-9a99-ec29c09b7ca1.gif" width="25px" height="25px" alt="typing cat"/>](https://jongan69.github.io/linktree/) Projects & Experience:
+## [<img src="https://user-images.githubusercontent.com/29899042/209015323-7817b7b3-4772-4467-9a99-ec29c09b7ca1.gif" width="25px" height="25px" alt="typing cat"/>](https://jongan69.github.io/linktree/) Projects & Experience:
 - [Expo](https://expo.dev/@jongan69)
 - [LeetCode](https://leetcode.com/jongan69/)
 - [Devpost](https://devpost.com/jongan69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
@@ -128,50 +123,38 @@ Broad technical knowledge of:
 </details>
 
 <details>
-<summary>
-<img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/> Stats
-</summary>
+<summary><img src="https://user-images.githubusercontent.com/29899042/208945877-49a9548c-d9b2-403b-9e40-b6cc9e5cb1a5.gif" width="15px" height="15px" alt="REE"/> Stats</summary>
 
-<table width="100%"  height="80%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" height="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69&hide=makefile"  />      
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongan69&hide=makefile" />
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <img src="https://github-readme-stats.vercel.app/api?username=jongan69" />
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <br> 
     </td>
-    <td > 
-    <div align="center">
+    <td align="center"> 
       <p>I'm currently listening to: </p>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&redirect=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=jonny2298&cover_image=true&theme=compact" width="80%"/>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jonny2298&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jonny2298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
       </a>
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-     </div>
-       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-       <br>   
+      <br>   
     </td>
   </tr>
 </table>
 </details>
   
-  
-  ### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="TARGET"/>](https://jongan69.github.io/linktree/) Top Technologies
+### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Direct-Hit-Telegram-Animated-emoji.gif" width="15px" height="15px" alt="TARGET"/>](https://jongan69.github.io/linktree/) Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![React Native Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB&label=React+Native)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 <br>
 
-### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Cool-Dog-Discord-emoji.gif" width="15px" height="15px" alt="Dance"/>](https://jongan69.github.io/linktree/) Vistors
-  <img src="https://profile-counter.glitch.me/jongan69/count.svg" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jonny2298&cover_image=false&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jonny2298&redirect=true)
 
-<!-- #### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jongan69..visitor-badge) -->
+### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Cool-Dog-Discord-emoji.gif" width="15px" height="15px" alt="Dance"/>](https://jongan69.github.io/linktree/) Visitors
+<img src="https://profile-counter.glitch.me/jongan69/count.svg" />
