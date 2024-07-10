@@ -9,99 +9,67 @@
 <details>
 <summary>Full Resume</summary>
 
-# Jonathan Gan  
-[linkedin.com/in/jongan69](https://linkedin.com/in/jongan69)
-
 ## Summary
-Specialties: 
-- Engineering Product Architecture
-- Scrum/Agile Workflow
-- FullStack Engineering
+A creative and analytical information science professional with a solid background in consulting, web design, mobile application development, automation, generative AI research, user experience, project management, and strategic planning. Comprehensive experience in leveraging cutting-edge tools and methodologies to build new and innovative technologies and develop scalable solutions. A goal-oriented, knowledgeable producer who continuously visualizes, expands, and generates ideas to maximize growth and profits.
 
-Front-End Solutions: 
-- JavaScript
-- React/Nextjs
-- React Native
-- Swift
-
-Back-End Solutions: 
-- Nodejs
-- C++
-- Solidity
-- Rust
-- Mongodb
-- Python
-- IPFS
-- Java/Springboot
-- Flask
-
-Hardware Development: 
-- Raspberry Pi/Arduino/ESP Board/Soldering/Wafers/Assembly
-
-Broad technical knowledge of: 
-- Postgress
-- Web3/Blockchain
-- Rust Rocket
-- Entropy
-- GraphQL
-- Computer Vision
-- Deep Learning
-- Algorithms
-- Signal Processing
-- Machine Learning
-- Digital Logic Design and more
+## Technical Skills
+**Project Management:** Agile SCRUM Sprints, Monday.com, Jira, Trello  
+**Design:** Adobe XD, Figma, POP, Jest (Testing)  
+**Web Design:** React, Nodejs, React Native, Flask & Spring Boot, WordPress  
+**Databases:** MongoDB, SQL, Firebase, IPFS, Postgres, AWS  
+**API:** Next.js / Restful / SOAP, GraphQL  
 
 ## Experience
-- Senior Technical Analyst at Kin + Carta (6 months)
-- Code Coach at theCoderSchool (8 months)
-- Computer Science Student at University of South Florida (1 year 7 months)
-- React Developer at ChainBytes - Bitcoin ATM provider (6 months)
-- Junior React Developer at BlockSpaces (1 year 1 month)
-- Head of Software Development at MADD Technologies LLC (9 months)
-- Blockchain Research Intern at BlockSpaces (8 months)
-- Founder of Cryptocurrensea (1 year 9 months)
-- SaaS Developer at Accusoft (1 year 1 month)
-- Barista at Starbucks (1 year 1 month)
+**KIN + CARTA**  
+*Senior Analyst III, Delivery Cloud Engineer* | London, England / Remote | 2022-2024  
+Led the development of internal tools and client applications using React, Java Spring Boot, and project management expertise. Optimized efficiency, automated processes, and enhanced user experiences, exemplified by projects like the Salesforce Slack bot and scalable UI for Syngenta.
+- Saved finance department 10+ hours per week with automation tools.
+- Increased employee satisfaction by removing need for weekly leader meeting if missing logged hour.
+- Reduced post-release issues and operational efficiency through core banking development practices.
+- Enhanced scalability & performance of Existing UI, and learned concepts on the fly to fit the team needs.
+- Established foundation for internal automation.
+- Performed generative AI research.
+- Served as engineering consultant for Syngenta Digital (React Development) and Discover Financial (Java Code Review).
 
-## Education
-- University of South Florida (BS in Computer and Information Sciences, General)
-- Hillsborough Community College (BS in Computer Science)
-- Florida Polytechnic University (Bachelor's in Computer Engineering)
-- Alchemy University (Web3, Solidity)
-- edX (Computer Science courses)
-- freeCodeCamp (Computer Science)
-- Tarpon Springs High School (Diploma, Cambridge Program)
+**THECODERSCHOOL**  
+*Code Coach (JavaScript / Python / Lua)* | Tampa, Florida | 2022-2023  
+Developed and delivered tailored lesson plans teaching software development and project management to students aged 6-18. The role involved creating interactive projects, providing one-on-one coaching, and fostering a supportive learning environment.
+- Created projects from scratch.
+- Laid foundation for students to build complete applications.
+- Increased student engagement by roughly 50%.
+- Improved project completion rates by roughly 20%.
+- Mentored students for coding competitions.
 
-## Licenses & Certifications
-- CS198.1x: Bitcoin and Cryptocurrencies from University of California, Berkeley
-- React: Creating and Hosting a Full-Stack Site from LinkedIn
-- Choosing a Cloud Platform for Developers: AWS, Azure, and GCP from LinkedIn
-- Scrum: The Basics from LinkedIn
-- Blockchain: Learning Solidity from LinkedIn
-- APP1x: Build your very first iOS app from Curtin University
-- Programming Foundations: Databases from LinkedIn
-- Learning React.js from LinkedIn
-- Managing Your Time from LinkedIn
-- React Native Ecosystem and Workflow from LinkedIn
-- Learning React Native from LinkedIn
-- iOS Core Bluetooth for Developers from LinkedIn
-- Microservices Foundations from LinkedIn
-- Java EE: Packaging and Deploying an App from LinkedIn
-- Overcoming Procrastination from LinkedIn
-- React (Basic) from HackerRank
-- AWS Technical Essentials from Amazon Web Services (AWS)
+**CHAINBYTES LLC**  
+*React and React Native Developer* | Tampa, Florida | 2021-2022  
+Developed a React Material UI dashboard and a React Native Next.js application to enhance the company's Bitcoin ATM compliance operations. Created an intuitive user interface and ensured real-time data synchronization with robust security measures.
+- Reduced compliance task completion time and improved visibility.
+- Spearheaded the development of a React Native app for integration with existing Bitcoin kiosks, enhancing operational efficiency and user experience.
 
-## Skills
-- C Programming Language
-- Object-Oriented Programming
-- Hardware Architecture
-- Software Project Management
-- React.js
-- TypeScript
-- React Native
-- Mobile Application Development
-- Blockchain
-- Web Development
+**BLOCKSPACES LLC**  
+*Junior React Developer / Blockchain Research Intern* | Tampa, Florida | 2019-2021  
+Developed Chrome extension using React and TypeScript, focusing on creating a responsive and user-friendly interface that enhanced user interactions with blockchain applications. Responsible for in-depth research on various blockchain chains, provided detailed evaluations and recommendations noted essential for the successful selection and implementation of chains for new projects.
+- Created chrome extension and read location data from Google API.
+- Assisted in the development and testing of blockchain applications.
+- Key collaborator with senior developers on various blockchain research projects.
+- Evaluated and selected chains for five major projects.
+
+**ACCUSOFT**  
+*SaaS React Developer* | Tampa, Florida | 2018-2019  
+Leveraged React to develop scalable and responsive web applications. Collaborated within Agile teams with tasks focused on optimizing user interfaces, implementing new features, and ensuring high performance and reliability across SaaS platforms.
+- Developed and maintained SaaS applications using React.
+- Collaborated with cross-functional teams to enhance product features.
+
+## Projects
+**Syngenta Seed Treatment Dashboard**, Web and Mobile Developer, 2023  
+Worked under Syngenta client for delivery of Seed Treatment React Dashboard. Collaborated with the UX design team to create functional user experiences.
+
+**BTM Compliance Dashboard**, React Developer, 2022  
+Created Material UI Next.js Dashboard. Developed external API using Swagger documentation layout. Used standard admin / user auth flow.
+
+**Mobile NFT**, React Developer, 2022  
+Designed Expo React Native tailwind Next.js MongoDB stacked application. Minted NFTs and read solidity contract data in mobile applications. Produced A Mobile Web3 Wallet auth flow.
+
 </details>
 
 <details>
