@@ -121,6 +121,3 @@ Designed Expo React Native tailwind Next.js MongoDB stacked application. Minted 
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jonny2298&cover_image=false&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jonny2298&redirect=true)
-
-### [<img src="https://emojiguide.com/wp-content/uploads/2022/06/Cool-Dog-Discord-emoji.gif" width="15px" height="15px" alt="Dance"/>](https://jongan69.github.io/linktree/) Visitors
-<img src="https://profile-counter.glitch.me/jongan69/count.svg" />
