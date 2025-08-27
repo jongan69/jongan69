@@ -13,7 +13,7 @@ A creative and analytical information science professional with a solid backgrou
 ## Technical Skills
 **Project Management:** Agile SCRUM Sprints, Monday.com, Jira, Trello  
 **Design:** Adobe XD, Figma, POP, Jest (Testing)  
-**Web Design:** React, Nodejs, React Native, Flask & Spring Boot, WordPress  
+**Web Design:** React, Nodejs, React Native, Flask & Spring Boot, WordPress, Rust
 **Databases:** MongoDB, SQL, Firebase, IPFS, Postgres, AWS  
 **API:** Next.js / Restful / SOAP, GraphQL  
 
