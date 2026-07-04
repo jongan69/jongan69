@@ -18,7 +18,6 @@ I build practical AI, automation, trading, and media tools. Most of my GitHub is
 - [odysseus-expo](https://github.com/jongan69/odysseus-expo) - Expo mobile companion for the Odysseus AI workspace.
 - [soltrendio](https://github.com/jongan69/soltrendio) - Solana wallet analysis and trend tooling.
 - [trading-api](https://github.com/jongan69/trading-api) - Rust market-data API.
-- [anthropic-billing-mcp](https://github.com/jongan69/anthropic-billing-mcp) - MCP server for Anthropic API billing and usage workflows.
 
 ## Background
 
