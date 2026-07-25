@@ -12,9 +12,9 @@ I build practical AI, automation, trading, and media tools. Most of my GitHub is
 
 ## Selected Projects
 
-- [ListingOS](https://github.com/jongan69/ListingOS-AI) - Camera-first Mobile AI seller agent.
-- [ClipCaptionAI](https://github.com/jongan69/ClipCaptionAI) - AI video editing toolkit for shorts, masked captions, B-roll planning, and Remotion workflows.
+- [ListingOS](https://github.com/jongan69/ListingOS-AI) - Mobile Camera-first AI seller agent.
 - [PrepAI](https://github.com/jongan69/PrepAI) - Mobile meal-planning app that uses computer vision and AI to turn available ingredients into plans.
+- [ClipCaptionAI](https://github.com/jongan69/ClipCaptionAI) - AI video editing toolkit for shorts, masked captions, B-roll planning, and Remotion workflows.
 
 ## Background
 
