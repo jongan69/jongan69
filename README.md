@@ -16,7 +16,6 @@ I build practical AI, automation, trading, and media tools. Most of my GitHub is
 - [ClipCaptionAI](https://github.com/jongan69/ClipCaptionAI) - AI video editing toolkit for shorts, masked captions, B-roll planning, and Remotion workflows.
 - [PrepAI](https://github.com/jongan69/PrepAI) - Mobile meal-planning app that uses computer vision and AI to turn available ingredients into plans.
 - [odysseus-expo](https://github.com/jongan69/odysseus-expo) - Expo mobile companion for the Odysseus AI workspace.
-- [soltrendio](https://github.com/jongan69/soltrendio) - Solana wallet analysis and trend tooling.
 - [trading-api](https://github.com/jongan69/trading-api) - Rust market-data API.
 
 ## Background
