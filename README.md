@@ -15,6 +15,7 @@ I build practical AI, automation, trading, and media tools. Most of my GitHub is
 - [ListingOS](https://github.com/jongan69/ListingOS-AI) - Mobile Camera-first AI seller agent.
 - [PrepAI](https://github.com/jongan69/PrepAI) - Mobile meal-planning app that uses computer vision and AI to turn available ingredients into plans.
 - [Expo-Sony-Camera](https://github.com/jongan69/expo-sony-camera) - Expo native module for Sony camera live view and remote capture.
+- [YoutubeResearchAI](https://github.com/jongan69/YouTubeResearchAI) - Turn any youtube video into a PHD Grade Research Report
 
 ## Background
 
