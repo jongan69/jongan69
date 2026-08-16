@@ -12,6 +12,7 @@ I build practical AI tools, mobile apps, and automation systems. My GitHub is a 
 ## Currently Building
 
 - **[PrepAI](https://prepaihq.com)** — local-first fitness AI for iPhone. On-device ML, zero cloud storage.
+- **[ReelAgree](https://reelagree.com)** — Private group movie and TV discovery, consensus, and planning across Expo and Cloudflare.
 - **[ListingOS](https://github.com/jongan69/ListingOS-AI)** — camera-first AI listing workflow for eBay sellers. Photo → review-ready draft in seconds.
 - **[ClipCaptionAI](https://github.com/jongan69/ClipCaptionAI)** — AI video editing toolkit for YouTube Shorts, TikTok, and Reels with Remotion rendering.
 
